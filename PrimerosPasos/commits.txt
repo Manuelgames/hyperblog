@@ -1,0 +1,47 @@
+commit 76fdf044475eed85d2a5e63f051a4b57b331277c
+Author: Manuel Alejandro <alejandro.lynk62@gmail.com>
+Date:   Sat Apr 16 17:33:40 2022 -0600
+
+    añadi mas texto
+
+commit 37f30a6b1ecef90242c7d44b2b90df37e3bb4e5a
+Author: Manuel Alejandro <alejandro.lynk62@gmail.com>
+Date:   Sat Apr 16 16:06:10 2022 -0600
+
+    Agrege un linea de texto en readme.txt
+
+commit e151c1bf4b5829803deaf320f336bcb02e3ec77b
+Author: Manuel Alejandro <alejandro.lynk62@gmail.com>
+Date:   Sat Apr 16 16:02:32 2022 -0600
+
+    Añadi archivo de texto
+
+commit 53338561669957225e0b1fc47a39c12b7ddc22a6
+Author: Manuel Alejandro <alejandro.lynk62@gmail.com>
+Date:   Sat Apr 16 01:33:54 2022 -0600
+
+    modifique el titulo
+
+commit 0ac21c7c773c7cbbf151e4d036790a1693f28718
+Author: Manuel Alejandro <alejandro.lynk62@gmail.com>
+Date:   Fri Apr 15 23:53:58 2022 -0600
+
+    modifique el titulo
+
+commit b10455d111c08fd950840964102402615d5da00d
+Author: Manuel Alejandro <alejandro.lynk62@gmail.com>
+Date:   Fri Apr 15 23:29:06 2022 -0600
+
+    Le cambie el titulo
+
+commit 841bab3eb49beb51dff862eb2378d287121ff778
+Author: Manuel Alejandro <alejandro.lynk62@gmail.com>
+Date:   Fri Apr 15 23:16:49 2022 -0600
+
+    inserte la estructura basica de html
+
+commit a2bf12a26c567fd6cd0ab1521fc6281f141ced47
+Author: Manuel Alejandro <alejandro.lynk62@gmail.com>
+Date:   Thu Apr 14 21:11:43 2022 -0600
+
+    Añadi los archivos html y css principales
