@@ -1,3 +1,9 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 body{
     width: 100%;
     width: auto;
@@ -5,14 +11,26 @@ body{
     justify-items: center;
     margin: 0;
     padding: 0;
-    
 }
 #container{
-    width: 70%;
-    padding: 1em;
+    width: 500px;
+    padding: 0;
     margin: 0 auto;
     border: black solid 1px;
 }
-#container h1{
-    font-size: 70px;
+#container h2{
+    font-size: 1rem;
+    padding: 1rem;
+}
+#container p{
+    font-size: 0.8rem;
+    padding: 1rem;    
+}
+#cabecera {
+    width: 100%;
+}
+#cabecera h1 {
+    background-color: cadetblue;
+    margin: 0;
+    padding: 0;
 }
