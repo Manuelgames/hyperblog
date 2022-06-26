@@ -1,1 +1,4 @@
+#IGNORAMOS TODAS LAS IMAGENES JPG
 *.jpg
+#IGNORAMOS LA CARPETA dibujos
+*.dibujos
